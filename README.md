@@ -1,5 +1,9 @@
 # Desafio - Consumo de datos desde una API REST
 
+💡 Realizado [cristiandpto23](https://github.com/cristiandpto23) con HTML y JS<br>
+➡ Front-End G17 - Desafío Latam<br>
+🔗 Desplegado en Vercel [aquí]()<br>
+
 ## Introducción
 
 En este desafío validaremos nuestros conocimientos del consumo de API's. Para lograrlo, necesitarás usar el ciclo de vida de un componente para consumir una API justo luego de renderizar la aplicación.
@@ -26,3 +30,5 @@ La aplicación debe cumplir lo siguiente:
 4. Hacer uso del style y/o class binding paar el direccionamiento y el color de fondo de los mensajes según corresponda a su propietario.
 
 ## Tecnologías utilizadas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
